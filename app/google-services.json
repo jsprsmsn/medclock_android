@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745987635726",
+    "project_id": "medclock-81d5e",
+    "storage_bucket": "medclock-81d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745987635726:android:33f404ff3a145a35a5da5f",
+        "android_client_info": {
+          "package_name": "com.example.medclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745987635726-kvdipi7pug6uvirpgu52jgrj18ohhpka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAE_m6S9ESKOuyTTzr1-gISq7Bb1rpU7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745987635726-kvdipi7pug6uvirpgu52jgrj18ohhpka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

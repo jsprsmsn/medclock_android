@@ -1,2 +1,2 @@
 # MedClock
-![MedClock Logo](githubpics\frontpage.jpg)
+![MedClock Logo](githubpics/frontpage.jpg)

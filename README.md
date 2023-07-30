@@ -62,7 +62,7 @@ Click the link to watch [MedClock Demo Video](https://www.example.com)
 
 ## Adviser:
 
-*  A. Costales
+*  Jefferson A. Costales
 
 ## School Name:
 

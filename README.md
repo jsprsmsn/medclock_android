@@ -1,1 +1,2 @@
-# medclock_android
+# MedClock
+![MedClock Logo](Downloads\githubpics\frontpage.jpg)

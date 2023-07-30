@@ -12,39 +12,40 @@ Android device in developer mode with USB debugging enabled
 USB cable (to connect Android device to your computer)
 
 # Features
-1. Provide Significant Health Information
+
+# 1. Provide Significant Health Information
    
 ![HealthInfo](githubpics/healthinfo.png) 
 
-2. Display Medicine Schedule
+# 2. Display Medicine Schedule
 
-![MedSched](githubpics/meddschedd.png) 
+![MedSched](githubpics/meddshedd.png) 
 
-3. Search Medicine Schedule
+# 3. Search Medicine Schedule
 
 ![SearchMedSched](githubpics/searrrcchh.png) 
 
-4. Set Alarm Schedule
+# 4. Set Alarm Schedule
 
 ![SetAlarm](githubpics/setalarmsched.png) 
 
-5. Modify Medicine Schedule Information
+# 5. Modify Medicine Schedule Information
 
 ![EditSched](githubpics/modifyschedinfo.png) 
 
-6. Ignore Alarm
+# 6. Ignore Alarm
 
 ![IgnoreAlarm](githubpics/ignooore.png) 
 
-7. Take Medicine Confirmation
+# 7. Take Medicine Confirmation
 
 ![TakeMed](githubpics/takemedd.png) 
 
-8. Cancel Alarm
+# 8. Cancel Alarm
 
 ![CancelAlarm](githubpics/cancelalarm.png) 
 
-9. View Alarm History
+# 9. View Alarm History
 
 ![AlarmHistory](githubpics/historyy.png)  
 

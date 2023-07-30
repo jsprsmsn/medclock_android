@@ -65,7 +65,7 @@ Click the link to watch [MedClock Demo Video](https://www.example.com)
 - Jefferson A. Costales
 
 # School Name:
-
+---
 Eulogio "Amang" Rodriguez Insitute of Science and Technology
 ---
 Nagtahan, Sampaloc, Manila, Philippines

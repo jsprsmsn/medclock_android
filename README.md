@@ -1,2 +1,2 @@
 # MedClock
-![MedClock Logo]("C:\Users\samso\Downloads\githubpics\frontpage.jpg")
+![MedClock Logo](C:\Users\samso\Downloads\githubpics\frontpage.jpg)

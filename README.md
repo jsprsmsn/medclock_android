@@ -6,12 +6,12 @@ The Alarm Manager is crucial for MedClock's functionality as a medicine reminder
 
 ![Overview](githubpics/overview.png)
 
-#Requirements
+# Requirements
 •	Android Studio 4.0 (installed on a Mac, Linux, or Windows machine)
 •	Android device in developer mode with USB debugging enabled
 •	USB cable (to connect Android device to your computer)
 
-#Features
+# Features
 1. Provide Significant Health Information
    
 ![HealthInfo](githubpics/healthinfo.png) 

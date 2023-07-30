@@ -1,1 +1,1 @@
-# medclock_android
+# MedClock

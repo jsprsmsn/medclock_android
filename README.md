@@ -51,7 +51,7 @@ The Alarm Manager is crucial for MedClock's functionality as a medicine reminder
 
 ## Demo Video
 
-Click the link to watch [MedClock Demo Video](https://www.example.com)
+Click the link to watch [MedClock Demo Video](https://drive.google.com/file/d/1tnmwEH6gnIlj5Rw12Ki8ov2aPq0GWjvI/view?usp=sharing)
 
 ## Researcher/Developer:
 

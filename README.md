@@ -55,27 +55,27 @@ Click the link to watch [MedClock Demo Video](https://www.example.com)
 
 # Researcher/Developer:
 
-•	Jesper Samson
-•	Jerico Jobli
-•	Junjun Capulong
-•	Maricar Murcia
+- Jesper Samson
+- Jerico Jobli
+- Junjun Capulong
+- Maricar Murcia
 
 # Adviser:
 
-•	Jefferson A. Costales
+- Jefferson A. Costales
 
 # School Name:
 
-Eulogio "Amang" Rodriguez Insitute of Science and Technology
-Nagtahan, Sampaloc, Manila, Philippines
-College of Arts and Sciences
-ITE Department
+- Eulogio "Amang" Rodriguez Insitute of Science and Technology
+- Nagtahan, Sampaloc, Manila, Philippines
+- College of Arts and Sciences
+- ITE Department
 
 # Course:
 
-•	Bachelor of Science in Information Technology
+- Bachelor of Science in Information Technology
 
 # Date:
 
-•	July 30, 2023
+- July 30, 2023
    
